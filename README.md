@@ -8,7 +8,12 @@ To run this project:
 2. Navigate to the project directory.
 
 ```
-$ cd ../MergeSort
+$ cd /MergeSort
 $ npm install
 $ npm test
 ```
+## File neccessary
+1. merge.ts: Contains the implementation of the merge function.
+2. merge.test.ts: Contains unit tests for the merge function.
+3. package.json: Contains project metadata and dependencies.
+4. tsconfig.json: TypeScript configuration file.
